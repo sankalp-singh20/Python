@@ -8,7 +8,7 @@ Welcome to my Python project! This repository contains code, examples, and resou
 - Well-structured Python code
 - Modular design
 - Easy to understand for beginners
-- [Add your features here]
+  
 
 ## 🛠️ Requirements
 
@@ -18,17 +18,17 @@ Welcome to my Python project! This repository contains code, examples, and resou
 ```bash
 pip install -r requirements.txt
 
-▶️ How to Run
+## ▶️ How to Run
 
 python main.py
 
 Replace main.py with the entry point of your project if it's different.
 
-🧠 Author
+## 🧠 Author
 
 Sankalp Singh
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License
 . You are free to use and modify it.
